@@ -6,7 +6,7 @@ def main():
     root = tk.Tk()
     app = App(root)
     root.title('Calculator')
-    root.iconbitmap('calculator.ico')
+    # root.iconbitmap('calculator.ico')
     root.mainloop()
 
 
