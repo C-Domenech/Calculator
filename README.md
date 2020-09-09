@@ -12,7 +12,7 @@ To run it from the command prompt, navigate to the file where is the project and
 python main.py
 ```
 
-To install it as a library execute the following command:
+To install it as a library, run the following command:
 
 ```
 pip install Calculator
